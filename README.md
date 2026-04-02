@@ -43,4 +43,4 @@
 
 - 💼 LinkedIn: www.linkedin.com/in/asjimenezg
 - 📧 Email: asjimenezg1923@gmail.com
-- - 🌐 Portafolio: https://portfolio2024stormshadow.vercel.app/
+- 🌐 Portafolio: https://portfolio2024stormshadow.vercel.app/
